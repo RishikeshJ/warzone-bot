@@ -1,0 +1,16 @@
+{
+  "name": "wz-discord",
+  "version": "1.0.0",
+  "description": "wz-bot for wanna-dongri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishi",
+  "license": "ISC",
+  "dependencies": {
+    "call-of-duty-api": "^1.3.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
